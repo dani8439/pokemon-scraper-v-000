@@ -31,7 +31,7 @@ class Pokemon
 end
 
 
-# Original Lab Answers in January:
+# # Original Lab Answers in January:
 # class Pokemon
 #   attr_accessor :name, :type, :db, :id, :hp
 #
