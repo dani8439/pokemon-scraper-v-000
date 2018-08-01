@@ -13,9 +13,11 @@ class Pokemon
     @@all
   end
 
-  def self.save()
-  end 
-
-  def self.find 
+  def self.save(id, name, type, database_connection)
   end
+
+  def self.find
+  end
+
+
 end
